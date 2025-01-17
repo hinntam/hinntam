@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hinntam
-- 👀 I’m interested in nextJS, Nodejs, MongoDB, openAI, model lanaguage, SEO website.
-- 🌱 I’m currently learning nextJS
-- 💞️ I’m looking to collaborate on the mobile application, Nextjs application and SEO.
-- 📫 How to reach me by Linkedin at: https://www.linkedin.com/codewithnguyen
+- 👋 Hi, I’m John Nguyen
+- 👀 I’m interested in nextJS, Nodejs, MongoDB, openAI, model language, and SEO websites.
+- 🌱 I’m currently learning about the testing software for SDLC.
+- 💞️ I’m looking to jobs on mobile applications and web applications.
+- 📫 How to reach me by Linkedin at: https://www.linkedin.com/in/hijohnnguyen/ OR https://hinntam.vercel.app/
 - 😄 Pronouns: Make a lot of question to improve skills in the technology.
 - ⚡ Fun fact: Help people to learn about the technology.
 
