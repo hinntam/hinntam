@@ -1,3 +1,6 @@
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture><br/>
 I'm a detail-oriented software developer and creative tech problem solver currently pursuing my Software Development Diploma at SAIT. Self-motivated and adaptable Full-Stack Developer with 2 years of experience building secure, scalable applications, and proficient in JavaScript/TypeScript, Java, and Python. Recognized for a sharp eye for detail, strong problem-solving instincts, and a drive to take on meaningful technical challenges. Skilled in secure API development, CI/CD automation, and containerized deployments on cloud-native solutions using Docker. Driven by a mindset of continuous learning and self-improvement, with a strong eagerness to collaborate in Agile teams and deliver real-world software that creates measurable business impact.
 
 🌱 Currently Building:
