@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🪄 Generate Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics_new@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_NEW }}
           user: hinntam
           filename: github-metrics.svg
           template: classic
